@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/master/assets/banner.png" alt="GitHub Banner">
+  <img src="https://github.com/manjumg/manjumg/blob/main/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="GitHub Banner" width="200%" height="350">
 </p>
 
 
