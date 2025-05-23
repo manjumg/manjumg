@@ -4,6 +4,12 @@
   <img src="https://github.com/manjumg/manjumg/blob/main/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="GitHub Banner" width="200%" height="350">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/manjumg/manjumg/blob/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/manjumg/manjumg/blob/output/snake.svg" />
+  <img alt="github-snake" src="https://github.com/manjumg/manjumg/blob/output/snake.svg" />
+</picture>
+
 
 <h1 align="center">Hi 👋, I'm Manjunath M Goni</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
