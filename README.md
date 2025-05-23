@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/master/assets/banner.png" alt="GitHub Banner">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Manjunath M Goni</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
